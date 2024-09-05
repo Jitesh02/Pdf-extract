@@ -19,13 +19,13 @@ To get started with PDF Extractor, follow these steps:
 git clone https://github.com/Jitesh02/Pdf-extract.git
 ```
 
-Navigate to the Project Directory
+### Navigate to the Project Directory
 bash
 Copy code
 cd Pdf-extract
 Install Dependencies
 For Backend
-Navigate to the server directory and install the necessary dependencies:
+### Navigate to the server directory and install the necessary dependencies:
 
 bash
 Copy code
