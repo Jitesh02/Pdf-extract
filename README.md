@@ -20,40 +20,45 @@ git clone https://github.com/Jitesh02/Pdf-extract.git
 ```
 
 ### Navigate to the Project Directory
-bash
+```bash
 Copy code
 cd Pdf-extract
-Install Dependencies
+```
+## Install Dependencies
 For Backend
 ### Navigate to the server directory and install the necessary dependencies:
 
-bash
+```bash
 Copy code
 cd server
 npm install
+```
 For Frontend
 Navigate to the client directory and install the necessary dependencies:
 
-bash
+```bash
 Copy code
 cd ../client
 npm install
-Usage
-Backend
+```
+### Usage
+#### Backend
 To start the backend server, run:
 
-bash
+```bash
 Copy code
 cd server
 npm start
+```
 The backend server will be running at http://localhost:5000 (or another port if configured differently).
 
-Frontend
+#### Frontend
 To start the frontend application, run:
 
-bash
+```bash
 Copy code
 cd client
 npm start
+```
 The frontend will be running at http://localhost:3000 (or another port if configured differently).
 
