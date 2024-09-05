@@ -57,3 +57,9 @@ npm start
 ```
 The frontend will be running at http://localhost:3000 (or another port if configured differently).
 
+## Authentication
+The application includes user authentication functionality. Users can:
+
+Sign Up: Create a new account by providing a username and password.
+Log In: Access the application by entering your username and password.
+
